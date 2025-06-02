@@ -3,6 +3,7 @@ import {StyleSheet, Text, View} from 'react-native';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import Ex_1 from "./src/components/exercise_1/ex_1";
 import Ex_2 from "./src/components/exercise_2/ex_2";
+import Ex_3 from "./src/components/exercise_3/ex_3";
 
 export default function App() {
     return (
@@ -10,6 +11,7 @@ export default function App() {
             <Text>Hello World - main file</Text>
             <Ex_1/>
             <Ex_2/>
+            <Ex_3/>
             <StatusBar style="auto"/>
         </SafeAreaView>
     );
