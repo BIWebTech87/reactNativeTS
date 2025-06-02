@@ -31,7 +31,7 @@ This is a simple React Native project built for learning and experimentation pur
     ├── screens/ # App screens
     ├── navigation/ # Navigation setup
     ├── services/ # API services
-    ├── App.js # Entry point
+    ├── App.ts # Entry point
     └── package.json
 
 -----------------------------------------------------

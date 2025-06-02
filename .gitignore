@@ -194,3 +194,5 @@ cython_debug/
 .cursorindexingignore
 
 .idea
+/AwesomeLearningApp/.vscode/
+/my-app/.vscode/
